@@ -3,4 +3,10 @@ MySQL Server, the world's most popular open source database, and MySQL Cluster, 
 
 # DOCUMENTATION:
 installation :
-https://www.youtube.com/watch?v=F_fSMCiOQOI&list=PLyr3gkJ8OBxrD6toogwWP357Fe4X65aWa&index=1&ab_channel=VivaCode
+manual creation of a data base with XAMPP
+https://www.apachefriends.org/fr/download.html
+start apache and mysql
+then go to your browser type : http://localhost/phpmyadmin/
+ = now you are ready for your first data base 
+ =
+ 
