@@ -17,4 +17,5 @@ then go to your browser type : http://localhost/phpmyadmin/
 add interpretors :https://www.youtube.com/watch?v=KLl1tXoaNgk&ab_channel=ProgrammingWithHarry
 
 # PRACTICE:
-https://www.w3schools.com/python/default.asp
+to be able to practice the crud (create read update delete ) 
+follow this cours : https://www.w3schools.com/python/default.asp
